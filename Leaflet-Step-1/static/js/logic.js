@@ -109,8 +109,8 @@ var overlayMaps = {
 };
 // Create our map and give it a starting point
 var myMap = L.map('map', {
-  center: [38, -96],
-  zoom: 5,
+  center: [15, -90],
+  zoom: 2.5,
   layers: [lightMap, earthquakes]
 });
 
