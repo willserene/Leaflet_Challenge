@@ -12,4 +12,4 @@ https://willserene.github.io/leaflet-challenge/
 
 Screenshot of map:
 
-![Earthquake Visualization]()
+![Earthquake Visualization](Leaflet-Step-1/screenshots/Earthquake Visualization.png)
